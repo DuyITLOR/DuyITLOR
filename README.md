@@ -18,7 +18,7 @@
 
 <img src="https://skill-icons-livid.vercel.app/icons?i=html,css,js,cpp,python&gap=60" />
 
-<img src="https://skill-icons-livid.vercel.app/icons?i=vite,react,tailwind,sass,gtk&gap=60">
+<img src="https://skill-icons-livid.vercel.app/icons?i=vite,react,tailwind&gap=60">
 
 <img src="https://skill-icons-livid.vercel.app/icons?i=sqlite,mysql,express,nodejs&gap=60">
 
